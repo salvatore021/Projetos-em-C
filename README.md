@@ -1,0 +1,1 @@
+Caso um dia eu melhore, ou atualize alguma coisa, irei documentar por aqui, por hora, todas ás informações dos programas podem ser encontradas em suas documentações junto dos arquivos de código e executável.
